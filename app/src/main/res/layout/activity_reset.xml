@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:gravity="center"
     android:orientation="vertical"
-    tools:context=".ResetActivity">
+    tools:context=".activities.ResetActivity">
 
     <EditText
         android:id="@+id/et_email"
